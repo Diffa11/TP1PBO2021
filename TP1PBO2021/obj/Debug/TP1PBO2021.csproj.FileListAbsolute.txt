@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Detail.resources
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Form1.resources
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Home.resources
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+C:\Users\ASUS\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.pdb
